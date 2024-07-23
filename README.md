@@ -1,6 +1,6 @@
 # Dynamic Equalizer Audios
 
-The Dynamic Equalizer Audios repository contains the audio files utilized in the paper "Algorithm for the Attenuation of Resonant Frequencies in a Dynamic Audio Equalizer," which were employed to assess the efficacy of the algorithm. The audio files have a duration of 4 seconds per file, with a bit depth of 24 bits at a sampling rate of 48 kHz.
+The Dynamic Equalizer Audios repository contains the audio files utilized in the paper "Method for the Attenuation of Resonant Frequencies in a Dynamic Audio Equalizer," which were employed to assess the efficacy of the algorithm. The audio files have a duration of 4 seconds per file, with a bit depth of 24 bits at a sampling rate of 48 kHz.
 
 The audio files were procured from a variety of multitrack projects accessible within the Mixing Secrets for the Small Studio – Additional Resources library, provided by Cambridge Music Technology. These files were utilized to obtain audio samples of different instruments for experimental purposes.
 
